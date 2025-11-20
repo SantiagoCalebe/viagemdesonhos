@@ -1,0 +1,1 @@
+document.getElementById('WBS').onclick = () => window.open('https://santiagocalebe.github.io/', '_blank');
